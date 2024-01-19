@@ -1,1 +1,1 @@
-# Netflix-Analyzer-CS210
+# Netflix-Analysis-CS210
