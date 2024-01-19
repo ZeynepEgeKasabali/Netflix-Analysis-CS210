@@ -3,7 +3,7 @@
 ## Zeynep Ege Kasabalı
 
 ## My website link that I used to 
-You can see the website of my project [here]([https://hilalsay.github.io/cs210-project/](https://zeynepkasabali.wixsite.com/my-site-1)). I designed this website for my CS210 course to observe my viewing habits using my Netflix data.
+You can see the website of my project [here](https://zeynepkasabali.wixsite.com/my-site-1). I designed this website for my CS210 course to observe my viewing habits using my Netflix data.
 
 ## Hypothesis
 There is a significant decrease in my Netflix viewing time during the corona period and my viewing time after starting university.
